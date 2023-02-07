@@ -9,4 +9,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=marcosazevedo2112&theme=dracula&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center">
+  Contador de visualizações
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcosazevedo2112}/count.svg" /></p
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=footer"/>
